@@ -1,5 +1,5 @@
 // Write your solution in this file!
-let employee = {
+const employee = {
     name: "Chris",
     streetAddress: 239
 }
